@@ -1,2 +1,5 @@
-# Introduction-to-Decision-Trees
-This chapter introduces you to two types of supervised learning algorithms in detail. The first algorithm will help us to classify data points using decision trees, while the other algorithm will help us classify using random forests.
+# Introduction to Decision Trees
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Decision-Trees.svg)](https://github.com/Develop-Packt/Introduction-to-Decision-Trees/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Decision-Trees.svg)](https://github.com/Develop-Packt/Introduction-to-Decision-Trees/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-Decision-Trees.svg)](https://github.com/Develop-Packt/Introduction-to-Decision-Trees/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Decision-Trees/pulls)
